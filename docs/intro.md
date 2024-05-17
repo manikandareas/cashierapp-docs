@@ -49,7 +49,7 @@ npx drizzle-kit push:pg
 Run **CashierApp** :
 
 ```bash
-java --jar swing-pos.jar
+java -jar swing-pos.jar
 ```
 
 The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
@@ -58,4 +58,4 @@ The `npm install` command to install entire dependencies needed.
 
 The `npx drizzle-kit push:pg` command to run migration database.
 
-The `java --jar` command to execute and running application jar.
+The `java -jar` command to execute and running application jar.
